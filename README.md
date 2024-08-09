@@ -70,7 +70,7 @@
 - **LoRAT:** Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
   "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance." ECCV (2024).
   [[paper](https://arxiv.org/abs/2403.05231)] 
-  [[code]([https://](https://github.com/LitingLin/LoRAT)]
+  [[code](https://github.com/LitingLin/LoRAT)]
 
 
 ### CVPR 2024
