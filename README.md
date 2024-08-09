@@ -66,6 +66,13 @@
   [[code](https://github.com/baaivision/Painter)]
 
 
+### ECCV 2024
+- **LoRAT:** Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
+  "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.05231)] 
+  [[code]([https://](https://github.com/LitingLin/LoRAT))]
+
+
 ### CVPR 2024
 
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
